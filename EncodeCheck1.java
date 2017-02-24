@@ -11,7 +11,7 @@ import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.List;
 
-public class EncodeCheck1 {
+public class EncodingAndDecodingUseToCheckFileAndFolderName {
 	
 	
 	public static List<String> scanFileFolderNameEncoding(String dataFolderPathName) throws Exception{
